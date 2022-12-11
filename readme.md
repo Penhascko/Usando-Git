@@ -1,1 +1,1 @@
-Primeiros passos no Git
+First commit with Git and GitHub
